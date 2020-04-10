@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">	
+	<title>Niños</title>
+<style>
+* {
+	box-sizing: border-box;
+	}
+
+body {
+	margin: 0;
+	font-family: arial, helvetica, sans-serif;
+	}
+
+/*estilo con navegacion*/
+.sidenav{
+	height: 670px; 
+        width: 207px; 
+        position: fixed; 
+        z-index: 1; 
+        top: 0; 
+        left: 0; 
+        background-color: #34495E; 
+        overflow-x: hidden;
+        }
+
+/*enlaces de navegacion lateral*/
+.sidenav a {
+        color: #B3B6B7; 
+        padding: 16px; 
+        text-decoration: none; 
+        display: block;
+        }
+
+/*cambiar el color al pasar el mouse*/
+.sidenav a:hover {
+        background-color: #7F8C8D; 
+        color: #1722A;
+	}
+
+/*dale estilo al contenido*/
+.content {
+        margin-left: 200px;
+        padding-left: 10px;
+        }
+
+</style>
+</head>
+	<div id="header">
+	<div class="sidenav">		
+			<ul id="menu">
+                                <li><a href="file:///C:/Users/Admin/Desktop/mdczistvr/Whithe%20Clothes%20proyect/WHITE%20CLOTHES1.HTML">Inicio</a></li>
+				<li><a href="file:///C:/Users/Admin/Desktop/mdczistvr/Whithe%20Clothes%20proyect/WHITE%20CLOTHES%20DISEÑOS.HTML">Diseños</a></li>
+                                <li><a href="https://api.whatsapp.com/send?phone=593984469311&text=">Contacto</a></li>
+				<li><a href="https://www.facebook.com/whiteclothesec-557176034687392/">Facebook</a></li>
+				
+			</ul>
+		
+                <div id="cp_widget_b4d63af4-87fa-49b2-9a47-62e3961557b5">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_b4d63af4-87fa-49b2-9a47-62e3961557b5"; cpo["_fid"] = "AcNAIr-ms1tw";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script>
+	</div>
+	<div class="content">
+		<div id="main">
+			<div class="1">
+
+                       <h5 id="logo"><img src="https://images.cooltext.com/5398614.png" width="615" height="92" alt="White Clothes " /></a>
+
+			<p>- Nuestros diseños unicamente para ti </p>
+	
+        
+	<style> 
+
+		*{
+		box-sizing: border-box;
+	}
+body { 
+font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+/*Estilo del encabezado*/
+.encabeza1 {
+	text-shadow: 1px 2px #fff;
+	background-color: #979A9A;
+	padding: 35px;
+	text-align: center;
+	font-size: 35px;
+}
+/*crea tres columnas desiguales que flotan una al lado dela otra*/
+.column {
+
+	float: left;
+	padding: 10px;
+	height: 300px;
+	animation: 100px;
+}
+/*columna izquierda y derecha */
+.column.side {
+	width: 30%;
+}
+/*columna central */
+.column.middle {
+	width: 40%;
+}
+/*Barra flotadores despues de las columnas */
+.row:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+/*Estilo al pie de la pagina */
+.footer {
+background-color:  #979A9A;
+padding: 10px;
+text-align: center;
+}
+.column a:hover {
+background-color: #D6DBDF;
+color: #EC7063;}
+/* Diseño receptivo:hace las tres columnas se apilen una encima de la otra en el lugar de una la lado de la otra */
+@media (max-width: 1000px) {
+ .column.side, .column.middle {
+		width: 100%;
+	}
+}
+
+</style>
+</head>
+
+<body>
+	<div class="encabeza1">
+<H1> C O L E C C I O N  </H1>
+<h2> J U N G L E </h2>
+</div>
+<div class="row">
+<div class="column side" style="background-color:#D6DBDF;"><button> $25 </a></button> <img src="https://i.pinimg.com/564x/8d/5c/e4/8d5ce4e0a07d27f669e83438144b3d9d.jpg" height="280" width="280"></div>
+  
+<div class="column middle" style="background-color:#ABB2B9;"><button> $28 </a></button> <img src="https://www.jojomamanbebe.com/media/catalog/product/cache/1/image/1000x/cc44d3b39965d3efd15a8158cb2fdfb4/e/5/e5406l1.jpg" height="280" width="350"></div>
+
+<div class="column side" style="background-color:#D6DBDF;"><button> $26 </a></button> <img src="https://i.pinimg.com/564x/7b/5d/6a/7b5d6afaacd25fe4adf0a3fc0b8d2041.jpg" height="280" width="280"></div>
+</div>
+
+<div class="encabeza1">
+<H1> C A S U A L  </H1>
+ </div>
+<div class="row">
+<div class="column side" style="background-color:#D6DBDF;"><button> $50 </a></button> <img src="https://i.pinimg.com/564x/15/35/88/1535881767d786fdf16b4c5c3c51a7ed.jpg" height="280" width="280"></div>
+  
+<div class="column middle" style="background-color:#ABB2B9;"><button> $40 </a></button> <img src="https://i.pinimg.com/564x/bd/ff/c9/bdffc9c8c411459a78f47b6f795f3706.jpg" height="280" width="350"></div>
+
+<div class="column side" style="background-color:#D6DBDF;"> <button> $55 </a></button> <img src="https://i.pinimg.com/564x/9e/35/bf/9e35bfe56e8441bf38aae68b478507ec.jpg" height="280" width="280"></div>
+</div>
+
+<div class="encabeza1">
+<H1> C O N J U N T O </H1>
+ </div>
+<div class="row">
+<div class="column side" style="background-color:#D6DBDF;"> <button> $65 </a> </button><img src="https://i.pinimg.com/564x/d2/5b/bb/d25bbb8fcd7b61fe934397bd99acea0c.jpg" height="280" width="280"></div>
+  
+<div class="column middle" style="background-color:#ABB2B9;"> <button> $60 </a></button> <img src="https://i.pinimg.com/564x/87/8d/72/878d724a0519f17028900da6e459f226.jpg" height="280" width="350"></div>
+
+<div class="column side" style="background-color:#D6DBDF;"> <button> $50 </a></button> <img src="https://i.pinimg.com/564x/b2/de/57/b2de57de939d06750e1a1ed19ddb4099.jpg" height="280" width="280"></div>
+</div>
+
+
+
+<div class="footer"> 
+   	<h2> <p> Vistelos a la moda !! </p></h2>
+			
+			<p> Design: Michael Coronel - <a href="https://www.instagram.com/stranger_wolf72/?hl=es-la" title="Stranger_wolf72"> <img src="https://image.flaticon.com/icons/svg/185/185985.svg" width="70px" height="35px" alt="White Clothes"/><a href="https://www.facebook.com/michael.coronel.96" title="Stranger_wolf72"> <img src="https://image.flaticon.com/icons/svg/185/185981.svg" width="70px" height="35px" alt="White Clothes"/>
+</p>
+		</div>
+	</div>	
+</body>
+</html>
